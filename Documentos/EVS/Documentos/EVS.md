@@ -299,8 +299,9 @@ Tras estudiar, analizar y valorar los argumentos del estudio de EVS y las altern
 **EVS 6.3- APROBACIÓN DE LA SOLUCIÓN** 
 Una vez finalizado este estudio y presentada la propuesta al Tutor del proyecto, éste aprueba ejecutar la alternativa 1, con lo que autoriza el inicio del desarrollo de una aplicación propia.  
  
-[**ANEXO 1: MATRIZ DE CUMPLIMIENTO DE REQUISITOS**](http://www.sampleurl.com)
-[**ANEXO 2: PROPUESTA ECONOMICA ALTERNATIVA 3**](http://www.sampleurl.com)
+[**ANEXO 1: MATRIZ DE CUMPLIMIENTO DE REQUISITOS**](https://git.institutomilitar.com/Patrick/ProyectoEIE/blob/master/Documentos/EVS/imagenes/MATRIZ%20CUMPLIMIENTO%20REQUISITOS.png).
+
+[**ANEXO 2: PROPUESTA ECONOMICA ALTERNATIVA 3**](https://git.institutomilitar.com/Patrick/ProyectoEIE/blob/master/Documentos/EVS/imagenes/PROPUESTA%20ECONOMICA%20ALTERNATIVA%203.png).
  
 
 
